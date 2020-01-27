@@ -63,3 +63,9 @@
  6. Ionic component 
    1. Using ionic component create a project
    2. Using materail UI create a project.
+   
+  7. Try out Create a app with : Android material UI and cordova plugins.
+  8. Try out Platform based Creating app.
+  9. Creating build for both android and IOS
+  10. Debugging with chrome://inspect
+  
