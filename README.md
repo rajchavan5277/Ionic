@@ -1,7 +1,16 @@
 # Ionic
 
 ## Installation and setup:
-
+   1. [Install Ionic](https://ionicframework.com/docs/installation/cli)
+   2. [Install Java](https://www.java.com/en/download/)
+   3. [Install Gradle](https://gradle.org/install/) set envriomental path 
+   4. [install SDK](https://developer.android.com/studio#downloads) set envriomental path
+   5. Set the enviromental path
+      [How to install android SDK on windows](https://android.tutorials24x7.com/blog/how-to-install-android-sdk-tools-on-windows)
+  Note : after installation close the cmd prompt and restart a new window. 
+  and run the cmd adb --version 
+  run the cmd ionic cordova build android
+  (If you get a sucess of build message the your done)
 ## UI component : 
   1. Can be use of Ionic 
   2. Can be use of material UI
