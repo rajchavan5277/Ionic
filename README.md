@@ -69,3 +69,6 @@
   9. Creating build for both android and IOS
   10. Debugging with chrome://inspect
   
+  
+  Reference: 
+  [All native plugins example](https://github.com/zyra/ionic-native-playground)
